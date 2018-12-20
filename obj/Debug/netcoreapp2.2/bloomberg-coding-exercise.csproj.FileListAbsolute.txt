@@ -1,0 +1,11 @@
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\bin\Debug\netcoreapp2.2\bloomberg-coding-exercise.deps.json
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\bin\Debug\netcoreapp2.2\bloomberg-coding-exercise.runtimeconfig.json
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\bin\Debug\netcoreapp2.2\bloomberg-coding-exercise.runtimeconfig.dev.json
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\bin\Debug\netcoreapp2.2\bloomberg-coding-exercise.dll
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\bin\Debug\netcoreapp2.2\bloomberg-coding-exercise.pdb
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\obj\Debug\netcoreapp2.2\bloomberg-coding-exercise.csprojAssemblyReference.cache
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\obj\Debug\netcoreapp2.2\bloomberg-coding-exercise.csproj.CoreCompileInputs.cache
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\obj\Debug\netcoreapp2.2\bloomberg-coding-exercise.AssemblyInfoInputs.cache
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\obj\Debug\netcoreapp2.2\bloomberg-coding-exercise.AssemblyInfo.cs
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\obj\Debug\netcoreapp2.2\bloomberg-coding-exercise.dll
+C:\Users\jchen\Documents\Projects\bloomberg-coding-exercise\obj\Debug\netcoreapp2.2\bloomberg-coding-exercise.pdb
